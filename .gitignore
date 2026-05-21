@@ -1,0 +1,18 @@
+echo "__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.mp4
+*.avi
+results/*.png
+!results/learning_curves/.gitkeep
+!results/videos/.gitkeep" > .gitignore
