@@ -27,4 +27,5 @@ pip install -r requirements.txt
 - [Spinning Up in Deep RL](https://spinningup.openai.com/)
 - [PPO Paper (Schulman et al.)](https://arxiv.org/abs/1707.06347)
 - [CleanRL Implementation](https://github.com/vwxyzjn/cleanrl)
+- https://www.geeksforgeeks.org/machine-learning/reinforce-algorithm/
 
